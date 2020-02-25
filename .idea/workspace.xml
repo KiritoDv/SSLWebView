@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4792c109-3fce-47b4-8289-6f06e9edbca4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/webviewflutter/FlutterWebViewClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/webviewflutter/FlutterWebViewClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YJ9asH4sCfdxOESAB2xDfw8ctL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,7 +49,8 @@
       <option name="presentableId" value="Default" />
       <updated>1582649896972</updated>
       <workItem from="1582649901966" duration="3000" />
-      <workItem from="1582649908303" duration="134000" />
+      <workItem from="1582649908303" duration="247000" />
+      <workItem from="1582650686815" duration="87000" />
     </task>
     <servers />
   </component>
