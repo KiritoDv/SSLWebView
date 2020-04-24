@@ -99,7 +99,11 @@
     [_channel setMethodCallHandler:^(FlutterMethodCall* call, FlutterResult result) {
       [weakSelf onMethodCall:call result:result];
     }];
-
+    
+    _webView.scrollView.scrollEnabled = NO;
+    _webView.scrollView.panGestureRecognizer.enabled = NO;
+    _webView.scrollView.bounces = NO;
+    
     if (@available(iOS 11.0, *)) {
       _webView.scrollView.contentInsetAdjustmentBehavior = UIScrollViewContentInsetAdjustmentNever;
       if (@available(iOS 13.0, *)) {
